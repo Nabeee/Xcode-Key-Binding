@@ -1,6 +1,6 @@
 # Xcode-Key-Binding
 
-1. copy IDETextKeyBindingSet.plist.
+1. copy [IDETextKeyBindingSet.plist](https://github.com/Nabeee/Xcode-Key-Binding/blob/master/IDETextKeyBindingSet.plist).
 2. open Key Bindings of Xcode(Xcode > Preferences > Key Bindings).
 3. set the key for each command like the screenshot below.
 
